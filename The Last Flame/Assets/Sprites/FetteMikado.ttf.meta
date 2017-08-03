@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4757e4a4755c6e246b8ed505c23e683d
+timeCreated: 1488761199
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fette Mikado
+  fontNames:
+  - Fette Mikado
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c015647a655b48d4a84a4db5b5b45483, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
